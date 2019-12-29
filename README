@@ -18,3 +18,6 @@ lib.zip 和 ivyCaches.zip
 lib.zip直接解压至当前文件夹下即可
 ivyCaches.zip 同理解压至ivyCaches文件夹。但是由于系统会在该文件夹下生成xml文件，不确定是否有影响，所以建议有系统生成该文件夹后，将压缩包里的依赖对号入座复制进去。
 编译参考：https://www.cnblogs.com/exmyth/p/11396519.html
+
+
+lib.zip 和 ivyCaches.zip 文件太大了无法上传，尴尬
